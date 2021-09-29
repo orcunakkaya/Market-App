@@ -38,7 +38,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
  
 
 ## Technologies
-<div>
+<div style="text-align:center">
 <img width="150px" src="https://user-images.githubusercontent.com/66293052/135208461-afdcd8e0-1fa4-4408-a7a7-d03fddee5d18.png"></img>
 <img width="150px" src="https://user-images.githubusercontent.com/66293052/135208464-afdb7681-048f-49c3-87fa-bc685a13f0da.png"></img>
 <img width="150px" src="https://user-images.githubusercontent.com/66293052/135208467-edd98abd-b033-4117-b933-31712da7dee5.png"></img>
