@@ -1,5 +1,4 @@
 import React from 'react'
-import { Link } from "react-router-dom"
 import moneyFormat from '../../Helpers'
 import "./style.css"
 function Header({total, money}) {
