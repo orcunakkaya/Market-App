@@ -4,7 +4,7 @@
 A simple application for displaying products, adding and removing products to the cart.
 
 ## Live Demo
-<a href="https://orcunakkaya-market-app.netlify.app/" target=_blank>Demo</a>
+[Demo](https://orcunakkaya-market-app.netlify.app/)
 
 ## Installation
 
