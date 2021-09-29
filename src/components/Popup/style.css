@@ -1,0 +1,121 @@
+.popup .overlay {
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    width: 100vw;
+    height: 100vh;
+    background-color: rgba(0,0,0,0.7);
+    z-index: 10000;
+    
+}
+
+.popup .popup-container {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: #fff;
+    width: 400px;
+    height: 210px;
+    z-index: 10001;
+    text-align: center;
+    padding: 20px;
+    box-sizing: border-box;
+    border-radius: 20px;
+}
+
+.popup .popup-container .close-button{
+    position: fixed;
+    right: 20px;
+    top: 20px;
+    width: 30px;
+    height: 30px;
+    z-index: 10002;
+    font-size: 25px;
+    font-weight: 600;
+    line-height: 30px;
+    text-align: center;
+    background-color: #fff;
+    cursor: pointer;
+}
+.popup .popup-container .close-button:hover{
+    border-radius: 50%;
+    background-color: #20b820;
+    color: #fff;
+}
+
+
+.popup .popup-message {
+    position: absolute;
+    top: 80%;
+    left: 50%;
+    transform: translate(-50%, -50%) scale(1);
+    background-color: #fff;
+    width: 400px;
+    height: 220px;
+    z-index: 10001;
+    text-align: center;
+    padding: 20px;
+    box-sizing: border-box;
+    border-radius: 20px;
+}
+
+.popup .popup-message > div {
+    font-size: 18px;
+}
+.popup .popup-message > div:first-child {
+    font-size: 21px;
+    font-weight: bold;
+}
+
+.popup .popup-message > div > span {
+    color: #20b820;
+}
+
+
+.popup .popup-container .close-label {
+    border: 1px solid black;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    width: 130px;
+    color: #61dafb;
+    cursor: pointer;
+    margin-right: 5px;
+    border-radius: 4px;
+
+}
+.popup .popup-container .continue-label {
+    border: 1px solid black;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    width: 130px;
+    color: #20b820;
+    cursor: pointer;
+    margin-left: 5px;
+    border-radius: 4px;
+}
+
+.popup .popup-container .close-label:hover{
+    background-color: #61dafb;
+    color: #fff;
+}
+.popup .popup-container .continue-label:hover{
+    background-color: #20b820;
+    color: #fff;
+}
+
+@media only screen and (max-width:411px){
+    .popup .popup-container {
+        width: 250px;
+    }
+    .popup .popup-message {
+        width: 250px;
+    }
+    .popup .popup-container .close-label {
+        width: 80px;
+    }
+    .popup .popup-container .continue-label {
+        width: 80px;
+    }
+    
+}

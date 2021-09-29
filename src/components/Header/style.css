@@ -1,0 +1,77 @@
+.header{
+    background: linear-gradient(to bottom, #20b820, #14be2a);
+    display: flex;
+    justify-content:space-between;
+    height: 60px;
+    align-items: center; /*dikeyde ortalama*/
+    color: #fff;
+    font-size: 24px;
+    letter-spacing: 1px; /*harfler arası boşluk*/
+    position: sticky; /*header ın yukarıda sabit kalması için*/
+    top: 0;
+    z-index: 9999;
+}
+
+
+.app-name {
+    margin-left: 0.5rem;
+}
+
+.money {
+    margin-right: 0.5rem;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.app-name > a {
+    text-decoration: none;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    letter-spacing: 2.5px;
+}
+
+
+@media only screen and  (max-width:1230px){
+    .header{
+        font-size: 16px;
+        height: 40px;
+    }
+    .header div {
+        font-size: 16px;
+    }
+}
+@media only screen and (max-width: 989px){
+    .header{
+        font-size: 14px;
+        height: 35px;
+    }
+    .header div {
+        font-size: 14px;
+    }
+}
+
+@media only screen and (max-width: 767px){
+    .header{
+        font-size: 12px;
+        height: 24px;
+    }
+    .header div {
+        font-size: 12px;
+    }
+  }
+  @media only screen and (max-width: 579px){
+    .header{
+       font-size: 8px;
+       height: 24px;
+    }
+    .header div {
+        font-size: 8px;
+    }
+}
+  @media only screen and (max-width: 411px){
+    .header{
+       font-size: 6px;
+       height: 24px;
+    }
+    .header div {
+        font-size: 6px;
+    }
+}

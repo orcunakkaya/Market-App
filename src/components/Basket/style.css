@@ -1,0 +1,79 @@
+.basket-container{
+    padding: 20px;
+    background: #fff;
+    border: 1px solid #ddd;
+    margin-bottom: 2rem;
+}
+
+.basket-container h3{
+    font-size: 20px;
+    margin-bottom: 15px;
+}
+
+.basket-container .total{
+    border-top: 1px solid #ddd;
+    padding-top: 10px;
+    margin-top: 10px;
+    font-size: 18px;
+    font-weight: bold;
+    text-align: right;
+    color: #20b820;
+}
+
+.basket-reset-btn{
+    background: #61dafb;
+    height: 40px;
+    width: 120px;
+    padding: 0 20px;
+    font-size: 16px;
+    font-weight: 500;
+    cursor: pointer;
+}
+
+.basket-buy-btn{
+    background-color: #20b820;
+    height: 40px;
+    width: 120px;
+    padding: 0 20px;
+    font-size: 16px;
+    font-weight: 500;
+    cursor: pointer;
+    margin-left: 2rem;
+    color: #fff;
+}
+
+
+    @media only screen and (max-width: 579px){
+        .basket-buttons{
+            display: flex;
+            margin-top: 1rem;
+            justify-content: space-around;
+        }
+        .basket-buy-btn{
+            font-size: 11px;
+        }
+        .basket-reset-btn{
+            font-size: 11px;
+        }
+        .total{
+            font-size: 15px!important;
+            text-align: center!important;
+        }
+    } 
+  @media only screen and (max-width: 411px){
+     .basket-buttons{
+        display: flex;
+        margin-top: 1rem;
+        justify-content: space-around;
+    }
+    .basket-buy-btn{
+        font-size: 10px;
+    }
+    .basket-reset-btn{
+        font-size: 10px;
+    }
+    .total{
+        font-size: 14px!important;
+        text-align: center!important;
+    }
+}

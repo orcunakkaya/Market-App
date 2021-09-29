@@ -1,0 +1,114 @@
+[
+    {
+        "id":1,
+        "title":"Egg",
+        "price":5.14,
+        "lb":2,
+        "image":"https://reimg-carrefour.mncdn.com/mnresize/600/600/productimage/30259863/30259863_0_MC/8815491743794_1571737901662.jpg"
+    },
+    {
+        "id":2,
+        "title":"Chewing Gum",
+        "price":5.98,
+        "lb":1,
+        "image":"https://reimg-carrefour.mncdn.com/mnresize/600/600/productimage/30041966/30041966_0_MC/8796556853298_1542192759348.jpg"
+    },
+    {
+        "id":3,
+        "title":"Yoghurt",
+        "price":3.47,
+        "lb":4,
+        "image":"https://reimg-carrefour.mncdn.com/mnresize/600/600/productimage/30219845/30219845_0_MC/8809568436274_1575477241020.jpg"
+    },
+    {
+        "id":4,
+        "title":"Cheese",
+        "price":3.48,
+        "lb":3,
+        "image":"https://reimg-carrefour.mncdn.com/mnresize/600/600/productimage/30261637/30261637_0_MC/8815900819506_1573559331172.jpg"
+    },
+    {
+        "id":5,
+        "title":"Chicken Breasts",
+        "price":7.97,
+        "lb":4,
+        "image":"https://i5.walmartimages.com/asr/edfb742e-2322-4229-bce2-f3b2be9cdc5e.4f41a9001cd68e794295d01d8b2422f6.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF"
+    },
+    {
+        "id":6,
+        "title":"Tomato Paste",
+        "price":0.72,
+        "lb":2,
+        "image":"https://i5.walmartimages.com/asr/f4144ac6-5713-4e9f-a46b-12fd3b55aed6.e45f0d668aaea50c8381293977e59347.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF"
+    },
+    {
+        "id":7,
+        "title":"Donut",
+        "price":12.97,
+        "lb":2,
+        "image":"https://i5.walmartimages.com/asr/2e889671-5314-47b8-a41e-80d0c2251969.58d0a825943f901faa5b67e46d988e9f.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF"
+    },
+    {
+        "id":8,
+        "title":"Snack Bars",
+        "price":7.18,
+        "lb":2,
+        "image":"https://i5.walmartimages.com/asr/baa3ad32-58f5-47e3-86b5-7e81c06074c3.233defba97166815f45b1f8026b0c306.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF"
+    },
+    {
+        "id":9,
+        "title":"Buttermilk Pancakes",
+        "price":3.24,
+        "lb":2,
+        "image":"https://i5.walmartimages.com/asr/a03b6dfc-45ae-4eca-85e3-cf767fefbdd6_1.902c78ea49a5eb031bfab41608f68cf3.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF"
+    },
+    {
+        "id":10,
+        "title":"Corn Dogs",
+        "price":10.27,
+        "lb":2,
+        "image":"https://i5.walmartimages.com/asr/c6e24d64-b6b2-453b-8263-a855f0cb6aa4.0fc39ba50e06012d2794d96c54da1a5c.png?odnHeight=612&odnWidth=612&odnBg=FFFFFF"
+    },
+    {
+        "id":11,
+        "title":"Crispy Fish Fillets",
+        "price":5.46,
+        "lb":3,
+        "image":"https://i5.walmartimages.com/asr/5341371b-8dd3-4bf6-b1d1-c77d634b7370_1.976d5d303b0cb21ce1f7f8235f3eacc5.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF"
+    },
+    {
+        "id":12,
+        "title":"Doritos 3D Crunch",
+        "price":2.98,
+        "lb":0.4,
+        "image":"https://i5.walmartimages.com/asr/e1950844-be19-4fba-9889-47a5fc5b1b5a.cc1cef693db66c228a3e76560d18a0e4.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF"
+    },
+    {
+        "id":13,
+        "title":"Avocado",
+        "price":0.88,
+        "lb":0.2,
+        "image":"https://i5.walmartimages.com/asr/098962b7-7d67-4ff5-a3c9-047c430f8fea_1.5847cdd72fa776356460d77b0b3c9301.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF"
+    },
+    {
+        "id":14,
+        "title":"Broccoli",
+        "price":5.98,
+        "lb":2,
+        "image":"https://i5.walmartimages.com/asr/28f3e0d9-697b-4327-90f5-497042ebded3_1.dac2593a9c33b9ec08c83dcc0143e5f6.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF"
+    },
+    {
+        "id":15,
+        "title":"Tofu",
+        "price":1.70,
+        "lb":1,
+        "image":"https://i5.walmartimages.com/asr/88c696b3-24fe-4785-8f80-84ac14895161.3be641a6df51eb7b4669365fdc557963.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF"
+    },
+    {
+        "id":16,
+        "title":"Fresh Strawberries",
+        "price":2.14,
+        "lb":1,
+        "image":"https://i5.walmartimages.com/asr/25733901-b0cd-4f45-8e2d-70416e6710be_1.49c9e5d6df766cc37ef991c3258a4e71.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF"
+    }
+]

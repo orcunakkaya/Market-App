@@ -1,0 +1,72 @@
+*{
+  box-sizing: border-box; /*nesnenin kapladığı toplam alan*/
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  border: 0;
+  outline: 0;
+}
+
+html {
+  overflow-y: scroll; /*kaydırma çubuğunu sürekli göster*/
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #eee;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.container{
+  width: 74rem;
+  margin: 0 auto;
+}
+.products{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  padding: 20px 0;
+}
+
+@media only screen and (min-width: 990px) and (max-width:1230px){
+  .container{
+    width: 54rem;
+    margin: 0 auto;
+  }
+}
+
+@media only screen and (min-width:768px) and (max-width: 989px){
+  .container{
+    width: 34rem;
+    margin: 0 auto;
+  }
+}
+
+@media only screen and (min-width:480px) and (max-width: 767px){
+  .container{
+    width: 20rem;
+    margin: auto ;
+  }
+}
+
+@media only screen and (max-width: 479px){
+  .container{
+    width: 16rem;
+    margin: auto ;
+  }
+}
+/*--------------scrool--------------*/
+@media screen and (prefers-reduced-motion: no-preference) {
+  html {
+    scroll-behavior: smooth;
+  }
+}
