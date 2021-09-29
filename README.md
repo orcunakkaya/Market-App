@@ -29,17 +29,17 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
  - Placing an order
  
  
- <div align="center">
+ 
   ![image1](https://user-images.githubusercontent.com/66293052/135205687-64b25816-2fb1-42b0-9811-65e6998399a9.png)
- </div>
  
-  <div align="center">
+ 
+  
   ![image2](https://user-images.githubusercontent.com/66293052/135205701-c932f4ea-b858-491e-a08f-66bcbe141cb8.png)
- </div>
  
-  <div align="center">
+ 
+  
   ![image3](https://user-images.githubusercontent.com/66293052/135205706-895e1f26-4020-4147-a101-6a2c04ede842.png)
- </div>
+ 
 
 ## Technologies
 <img src="https://user-images.githubusercontent.com/66293052/135208461-afdcd8e0-1fa4-4408-a7a7-d03fddee5d18.png"></img>
