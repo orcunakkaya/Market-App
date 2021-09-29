@@ -10,7 +10,7 @@ export default function Basket({basket, products, total, setBasket}) {
 
     return (
         <div className="basket-container container">
-            <h3>Alşveriş Detayları</h3>
+            <h3>Shopping Details</h3>
             <ul className="basket-detail">
                 {basket.map(item => (
                     <BasketItem key={item.id} item={item} product={products.find(p=> p.id === item.id)} />
