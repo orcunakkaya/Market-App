@@ -27,6 +27,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
  - Add product to basket
  - Cleanin the basket
  - Placing an order
+ - Responsive, on all devices
  
  
  
